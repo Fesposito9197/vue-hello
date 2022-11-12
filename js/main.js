@@ -4,7 +4,7 @@ createApp({
     data() {
         return{
             message: "Ciao a tutti",
-            image: "../img/immagini-e-tabelle-html-00.jpg",
+            image: "img/immagini-e-tabelle-html-00.jpg",
             photoInfo: "dogPhoto"
         }
     }
